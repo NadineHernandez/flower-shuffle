@@ -9,7 +9,7 @@ CSS 3
 JavaScript
 ReactJS
 
-Github: https://github.com/NadineHernandez/Shuffler
-Deployed: https://nadinehernandez.github.io/Shuffler/
+Github: https://github.com/NadineHernandez/flower-shuffle
+Deployed: https://nadinehernandez.github.io/flower-shuffle/
 
 Maintained by Nadine Hernandez
